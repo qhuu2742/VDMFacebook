@@ -1,6 +1,6 @@
-# Reveal Deleted FB Messages
+# View Deleted Messages Facebook
 
-[Bài viết Facebook](https://www.facebook.com/groups/j2team.community/posts/1650049605327153/)
+
 
 Một extension nho nhỏ, giúp mọi người xem lại những tin nhắn đã bị đối phương xóa trong fb messenger.
 
@@ -78,6 +78,5 @@ Sau khi tu luyện bằng source code KB2A Tool, thì mình đã tìm ra chân l
 
 Khi trang facebook bắt đầu chạy, nó sẽ **dùng thằng GIẢ** này để tạo biến websocket local cho riêng nó để dùng. Nhưng do đã bị **LÀM GIẢ** từ trước, nên trong biến local đó đã có sẵn code lắng nghe sự kiện của ta. **BÙMMM** 😂😂🤯🤯
 
-Vậy là mọi ý tưởng đã hoàn thành. Mình đã thực hiện và chia sẻ source code với mọi người tại [github](https://github.com/HoangTran0410/RevealDeletedFBMessages)
 
-p/s: Mình sẽ thêm ảnh từng bước và hướng dẫn chi tiết trong từng ảnh nhé..
+
